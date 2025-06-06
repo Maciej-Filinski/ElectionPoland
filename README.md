@@ -1,4 +1,4 @@
-# NPI Project
+# ElectionPoland Project
 
 ## Installation
 
