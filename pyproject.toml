@@ -35,7 +35,7 @@ dependencies = {file = ["requirements.txt"]}
 
 
 [project.urls]
-Homepage = "https://github.com/Maciej-Filinski/NPIs.git"
+Homepage = "https://github.com/Maciej-Filinski/ElectionPoland.git"
 
 
 [tool.pytest.ini_options]
